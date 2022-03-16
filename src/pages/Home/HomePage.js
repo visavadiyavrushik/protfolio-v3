@@ -7,7 +7,7 @@ import About from "../About/About";
 import Projects from "../Projects/Projects.jsx";
 import Contact from "../Contact/index";
 import Footer from "../../components/Footer/Footer";
-import Experience from "../Experience/Experience";
+// import Experience from "../Experience/Experience";
 
 // #ffc857
 
@@ -114,7 +114,7 @@ const Home = () => {
           </Container>
         </Section>
         <About />
-        <Experience />
+        {/* <Experience /> */}
         <Projects />
         <Contact />
         <Footer />
