@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/visavadiyavrushik/static/css/main.005e59ce.chunk.css",
+    "main.js": "/visavadiyavrushik/static/js/main.47ffa43d.chunk.js",
+    "main.js.map": "/visavadiyavrushik/static/js/main.47ffa43d.chunk.js.map",
+    "runtime-main.js": "/visavadiyavrushik/static/js/runtime-main.90b665f9.js",
+    "runtime-main.js.map": "/visavadiyavrushik/static/js/runtime-main.90b665f9.js.map",
+    "static/js/2.f6638ae4.chunk.js": "/visavadiyavrushik/static/js/2.f6638ae4.chunk.js",
+    "static/js/2.f6638ae4.chunk.js.map": "/visavadiyavrushik/static/js/2.f6638ae4.chunk.js.map",
+    "index.html": "/visavadiyavrushik/index.html",
+    "static/css/main.005e59ce.chunk.css.map": "/visavadiyavrushik/static/css/main.005e59ce.chunk.css.map",
+    "static/js/2.f6638ae4.chunk.js.LICENSE.txt": "/visavadiyavrushik/static/js/2.f6638ae4.chunk.js.LICENSE.txt",
+    "static/media/resume.7a44eff0.pdf": "/visavadiyavrushik/static/media/resume.7a44eff0.pdf",
+    "static/media/vrushik.fe60c58c.jpeg": "/visavadiyavrushik/static/media/vrushik.fe60c58c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90b665f9.js",
+    "static/js/2.f6638ae4.chunk.js",
+    "static/css/main.005e59ce.chunk.css",
+    "static/js/main.47ffa43d.chunk.js"
+  ]
+}
