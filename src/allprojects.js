@@ -21,41 +21,6 @@ const projects = [
     source: "https://github.com/visavadiyavrushik/meetups-react.git",
     tech: ["React.js"],
   },
-  {
-    id: 3,
-    title: "ToDos-React",
-    descriton: "ToDOs List || web app  ",
-    source: "https://github.com/visavadiyavrushik/meetups-react.git",
-    tech: ["React.js"],
-  },
-  {
-    id: 4,
-    title: "ToDos-React",
-    descriton: "ToDOs List || web app  ",
-    source: "https://github.com/visavadiyavrushik/meetups-react.git",
-    tech: ["React.js"],
-  },
-  {
-    id: 5,
-    title: "ToDos-React",
-    descriton: "ToDOs List || web app  ",
-    source: "https://github.com/visavadiyavrushik/meetups-react.git",
-    tech: ["React.js"],
-  },
-  {
-    id: 6,
-    title: "ToDos-React",
-    descriton: "ToDOs List || web app  ",
-    source: "https://github.com/visavadiyavrushik/meetups-react.git",
-    tech: ["React.js"],
-  },
-  {
-    id: 7,
-    title: "ToDos-React",
-    descriton: "ToDOs List || web app  ",
-    source: "https://github.com/visavadiyavrushik/meetups-react.git",
-    tech: ["React.js"],
-  },
 ];
 
 export default projects;

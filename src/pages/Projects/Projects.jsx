@@ -155,9 +155,13 @@ const Projects = () => {
               );
             })}
           </Div>
-          <a onClick={showMore} className="show">
-            {expanded === true ? "Show Less" : "Show More"}
-          </a>
+          {projects.length >= 6 ? (
+            <a onClick={showMore} className="show">
+              {expanded === true ? "Show Less" : "Show More"}
+            </a>
+          ) : (
+            ""
+          )}
         </Container>
       </Section>
     </>
