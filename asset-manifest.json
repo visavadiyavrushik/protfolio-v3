@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/protfolio-v3/static/css/main.005e59ce.chunk.css",
-    "main.js": "/protfolio-v3/static/js/main.47ffa43d.chunk.js",
-    "main.js.map": "/protfolio-v3/static/js/main.47ffa43d.chunk.js.map",
-    "runtime-main.js": "/protfolio-v3/static/js/runtime-main.f3b02e62.js",
-    "runtime-main.js.map": "/protfolio-v3/static/js/runtime-main.f3b02e62.js.map",
-    "static/js/2.5739bda2.chunk.js": "/protfolio-v3/static/js/2.5739bda2.chunk.js",
-    "static/js/2.5739bda2.chunk.js.map": "/protfolio-v3/static/js/2.5739bda2.chunk.js.map",
-    "index.html": "/protfolio-v3/index.html",
-    "static/css/main.005e59ce.chunk.css.map": "/protfolio-v3/static/css/main.005e59ce.chunk.css.map",
-    "static/js/2.5739bda2.chunk.js.LICENSE.txt": "/protfolio-v3/static/js/2.5739bda2.chunk.js.LICENSE.txt",
-    "static/media/resume.7a44eff0.pdf": "/protfolio-v3/static/media/resume.7a44eff0.pdf",
-    "static/media/vrushik.fe60c58c.jpeg": "/protfolio-v3/static/media/vrushik.fe60c58c.jpeg"
+    "main.css": "/visavadiyavrushik/static/css/main.005e59ce.chunk.css",
+    "main.js": "/visavadiyavrushik/static/js/main.ef16db8c.chunk.js",
+    "main.js.map": "/visavadiyavrushik/static/js/main.ef16db8c.chunk.js.map",
+    "runtime-main.js": "/visavadiyavrushik/static/js/runtime-main.90b665f9.js",
+    "runtime-main.js.map": "/visavadiyavrushik/static/js/runtime-main.90b665f9.js.map",
+    "static/js/2.f6638ae4.chunk.js": "/visavadiyavrushik/static/js/2.f6638ae4.chunk.js",
+    "static/js/2.f6638ae4.chunk.js.map": "/visavadiyavrushik/static/js/2.f6638ae4.chunk.js.map",
+    "index.html": "/visavadiyavrushik/index.html",
+    "static/css/main.005e59ce.chunk.css.map": "/visavadiyavrushik/static/css/main.005e59ce.chunk.css.map",
+    "static/js/2.f6638ae4.chunk.js.LICENSE.txt": "/visavadiyavrushik/static/js/2.f6638ae4.chunk.js.LICENSE.txt",
+    "static/media/resume.7a44eff0.pdf": "/visavadiyavrushik/static/media/resume.7a44eff0.pdf",
+    "static/media/vrushik.fe60c58c.jpeg": "/visavadiyavrushik/static/media/vrushik.fe60c58c.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3b02e62.js",
-    "static/js/2.5739bda2.chunk.js",
+    "static/js/runtime-main.90b665f9.js",
+    "static/js/2.f6638ae4.chunk.js",
     "static/css/main.005e59ce.chunk.css",
-    "static/js/main.47ffa43d.chunk.js"
+    "static/js/main.ef16db8c.chunk.js"
   ]
 }
