@@ -16,7 +16,6 @@ const Div = styled.div`
     font-size: 2.5rem;
     font-weight: 600;
     margin-bottom: 0.75em;
-    
   }
 
   p {
@@ -66,7 +65,7 @@ const Contact = () => {
               I'll try my best to get back to you!
             </p>
             <MailTo
-              email="vrushikvisavadiya11@gmail.com"
+              email="vrushik@vrushikvisavadiya.com"
               subject="Available ?"
               body="Hey Vrushik!,"
             >

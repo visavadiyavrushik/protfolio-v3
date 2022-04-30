@@ -105,7 +105,7 @@ const Home = () => {
               between.
             </p>
             <MailTo
-              email="vrushikvisavadiya11@gmail.com"
+              email="vrushik@vrushikvisavadiya.com"
               subject="Available ?"
               body="Hey Vrushik,"
             >
